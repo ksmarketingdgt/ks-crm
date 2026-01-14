@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "build": "echo \"build skipped (frontend prebuilt in server/public)\"",
     "start": "node server/index.js"
   },
   "dependencies": {
